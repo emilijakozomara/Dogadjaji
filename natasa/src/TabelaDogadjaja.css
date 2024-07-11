@@ -1,0 +1,66 @@
+.tabela{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.naslov h2 {
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.pretraga {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.pretraga input {
+    margin-right: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#pretrazi-dugme {
+    background-color: #FF8F00;
+    color: #000;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #0036FF;
+    color: white;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+#prijavi-se {
+    background-color: #29FF00;
+    color: black;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.dodaj-dogadjaj {
+    background-color: #0070FF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+}
