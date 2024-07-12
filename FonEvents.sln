@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FonEvents", "FonEvents\FonEvents.csproj", "{F321C648-1CB9-49A6-A48F-818C5AE5328F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F321C648-1CB9-49A6-A48F-818C5AE5328F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F321C648-1CB9-49A6-A48F-818C5AE5328F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F321C648-1CB9-49A6-A48F-818C5AE5328F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F321C648-1CB9-49A6-A48F-818C5AE5328F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950022B8-2D22-4481-848E-DB9ACFD2AB84}
+	EndGlobalSection
+EndGlobal
